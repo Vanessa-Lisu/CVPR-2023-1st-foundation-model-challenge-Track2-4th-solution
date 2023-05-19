@@ -1,0 +1,6 @@
+beit3.spm:
+https://conversationhub.blob.core.windows.net/beit-share-public/beit3/sentencepiece/beit3.spm
+
+
+beit3_large_patch16_384_f30k_retrieval.pth:
+https://conversationhub.blob.core.windows.net/beit-share-public/beit3/f30k_retrieval/beit3_large_patch16_384_f30k_retrieval.pth
